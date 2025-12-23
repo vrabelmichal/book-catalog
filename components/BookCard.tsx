@@ -1,5 +1,8 @@
+'use client';
+
 import Image from 'next/image';
 import Link from 'next/link';
+import { useLanguage } from '@/lib/LanguageContext';
 
 interface Book {
   id: string;
@@ -22,6 +25,21 @@ const statusColors: { [key: string]: string } = {
 };
 
 export default function BookCard({ book }: BookCardProps) {
+  const { t } = useLanguage();
+  
+  const getStatusText = (status: string): string => {
+    switch (status) {
+      case 'available':
+        return t('available');
+      case 'sold':
+        return t('sold');
+      case 'reserved':
+        return t('reserved');
+      default:
+        return status;
+    }
+  };
+
   return (
     <Link href={`/books/${book.id}`} className="group">
       <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden 
@@ -47,7 +65,7 @@ export default function BookCard({ book }: BookCardProps) {
               ${book.price.toFixed(2)}
             </span>
             <span className={`px-2 py-1 rounded-full text-xs font-medium ${statusColors[book.status]}`}>
-              {book.status.charAt(0).toUpperCase() + book.status.slice(1)}
+              {getStatusText(book.status)}
             </span>
           </div>
         </div>

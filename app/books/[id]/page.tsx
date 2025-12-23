@@ -1,7 +1,11 @@
+'use client';
+
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import ImageGallery from '@/components/ImageGallery';
+import LanguageToggle from '@/components/LanguageToggle';
 import books from '@/data/books.json';
+import { useLanguage } from '@/lib/LanguageContext';
 
 interface Book {
   id: string;
@@ -19,56 +23,52 @@ const statusColors: { [key: string]: string } = {
   reserved: 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-200',
 };
 
-export async function generateStaticParams() {
-  return books.map((book) => ({
-    id: book.id,
-  }));
-}
-
-export async function generateMetadata({ params }: { params: { id: string } }) {
-  const book = books.find((b) => b.id === params.id);
-  
-  if (!book) {
-    return {
-      title: 'Book Not Found',
-    };
-  }
-
-  return {
-    title: `${book.title} - Book Catalog`,
-    description: book.description,
-  };
-}
-
 export default function BookDetailPage({ params }: { params: { id: string } }) {
+  const { t } = useLanguage();
   const book = books.find((b: Book) => b.id === params.id);
 
   if (!book) {
     notFound();
   }
 
+  const getStatusText = (status: string): string => {
+    switch (status) {
+      case 'available':
+        return t('available');
+      case 'sold':
+        return t('sold');
+      case 'reserved':
+        return t('reserved');
+      default:
+        return status;
+    }
+  };
+
   return (
     <main className="min-h-screen bg-gray-50 dark:bg-gray-900">
       <div className="container mx-auto px-4 py-8 max-w-6xl">
-        <Link 
-          href="/"
-          className="inline-flex items-center text-blue-600 dark:text-blue-400 hover:underline mb-6"
-        >
-          <svg 
-            className="w-4 h-4 mr-2" 
-            fill="none" 
-            stroke="currentColor" 
-            viewBox="0 0 24 24"
+        <div className="flex items-center justify-between mb-6">
+          <Link 
+            href="/"
+            className="inline-flex items-center text-blue-600 dark:text-blue-400 hover:underline"
           >
-            <path 
-              strokeLinecap="round" 
-              strokeLinejoin="round" 
-              strokeWidth={2} 
-              d="M15 19l-7-7 7-7"
-            />
-          </svg>
-          Back to catalog
-        </Link>
+            <svg 
+              className="w-4 h-4 mr-2" 
+              fill="none" 
+              stroke="currentColor" 
+              viewBox="0 0 24 24"
+            >
+              <path 
+                strokeLinecap="round" 
+                strokeLinejoin="round" 
+                strokeWidth={2} 
+                d="M15 19l-7-7 7-7"
+              />
+            </svg>
+            {t('backToCatalog')}
+          </Link>
+          <LanguageToggle />
+        </div>
 
         <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 p-6 md:p-8">
@@ -83,7 +83,7 @@ export default function BookDetailPage({ params }: { params: { id: string } }) {
                 {book.title}
               </h1>
               <p className="text-xl text-gray-600 dark:text-gray-400 mb-4">
-                by {book.author}
+                {t('by')} {book.author}
               </p>
 
               <div className="flex items-center gap-4 mb-6">
@@ -91,13 +91,13 @@ export default function BookDetailPage({ params }: { params: { id: string } }) {
                   ${book.price.toFixed(2)}
                 </span>
                 <span className={`px-3 py-1 rounded-full text-sm font-medium ${statusColors[book.status]}`}>
-                  {book.status.charAt(0).toUpperCase() + book.status.slice(1)}
+                  {getStatusText(book.status)}
                 </span>
               </div>
 
               <div className="mb-6">
                 <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">
-                  Description
+                  {t('description')}
                 </h2>
                 <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
                   {book.description}
@@ -108,14 +108,14 @@ export default function BookDetailPage({ params }: { params: { id: string } }) {
                 <button className="w-full sm:w-auto px-8 py-3 bg-blue-600 hover:bg-blue-700 
                                  text-white font-semibold rounded-lg transition-colors duration-200
                                  focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
-                  Contact Seller
+                  {t('contactSeller')}
                 </button>
               )}
               {book.status === 'sold' && (
                 <div className="px-4 py-3 bg-red-50 dark:bg-red-900/20 border border-red-200 
                               dark:border-red-800 rounded-lg">
                   <p className="text-red-800 dark:text-red-200 font-medium">
-                    This book has been sold
+                    {t('bookSold')}
                   </p>
                 </div>
               )}
@@ -123,7 +123,7 @@ export default function BookDetailPage({ params }: { params: { id: string } }) {
                 <div className="px-4 py-3 bg-yellow-50 dark:bg-yellow-900/20 border border-yellow-200 
                               dark:border-yellow-800 rounded-lg">
                   <p className="text-yellow-800 dark:text-yellow-200 font-medium">
-                    This book is currently reserved
+                    {t('bookReserved')}
                   </p>
                 </div>
               )}
