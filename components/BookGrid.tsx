@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
 import BookCard from './BookCard';
 import books from '@/data/books.json';
+import { useLanguage } from '@/lib/LanguageContext';
 
 interface Book {
   id: string;
@@ -17,6 +18,7 @@ interface Book {
 
 export default function BookGrid() {
   const searchParams = useSearchParams();
+  const { t } = useLanguage();
   const [filteredBooks, setFilteredBooks] = useState<Book[]>(books);
 
   useEffect(() => {
@@ -40,7 +42,7 @@ export default function BookGrid() {
     return (
       <div className="text-center py-12">
         <p className="text-gray-500 dark:text-gray-400 text-lg">
-          No books found. Try adjusting your search or filters.
+          {t('noBooksFound')}
         </p>
       </div>
     );

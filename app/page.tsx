@@ -1,6 +1,10 @@
+'use client';
+
 import { Suspense } from 'react';
 import BookGrid from '@/components/BookGrid';
 import SearchBar from '@/components/SearchBar';
+import LanguageToggle from '@/components/LanguageToggle';
+import { useLanguage } from '@/lib/LanguageContext';
 
 function SearchBarFallback() {
   return (
@@ -38,16 +42,23 @@ function BookGridFallback() {
 }
 
 export default function Home() {
+  const { t } = useLanguage();
+
   return (
     <main className="min-h-screen bg-gray-50 dark:bg-gray-900">
       <div className="container mx-auto px-4 py-8 max-w-7xl">
         <header className="mb-8">
-          <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-2">
-            Book Catalog
-          </h1>
-          <p className="text-gray-600 dark:text-gray-400">
-            Discover your next great read
-          </p>
+          <div className="flex items-start justify-between mb-4">
+            <div className="flex-1">
+              <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-2">
+                {t('siteTitle')}
+              </h1>
+              <p className="text-gray-600 dark:text-gray-400">
+                {t('siteSubtitle')}
+              </p>
+            </div>
+            <LanguageToggle />
+          </div>
         </header>
         
         <Suspense fallback={<SearchBarFallback />}>
