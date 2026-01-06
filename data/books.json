@@ -1,1 +1,2180 @@
-C:/Users/micha/Documents/book-catalog-project/parser/.outputs/catalog.json
+[
+  {
+    "id": "1",
+    "title": "PORADNIK DZIAŁKOWCA",
+    "author": "Ferna Marshalla Bradleya",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962895/book-covers/poradnik-dzialkowca_ferna-marshalla-bradleya_3239f3.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "POWSZECHNA HISTORIA PAŃSTWA I PRAWA",
+    "author": "Michał Sczaniecki",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962896/book-covers/powszechna-historia-panstwa-i-prawa_michal-sczaniecki_eae3d5.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Kultura fizyczna w społeczeństwie nowoczesnym",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962897/book-covers/kultura-fizyczna-w-spoleczenstwie-nowoczesnym_unknown-author_567a8a.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Mastif tybetanski",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962899/book-covers/mastif-tybetanski_unknown-author_17e73f.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Naszym dzieciom o Biblii",
+    "author": "Anne de Vries",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962900/book-covers/naszym-dzieciom-o-biblii_anne-de-vries_8b7ca0.jpg"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Historia Ustroju i Prawa Polskiego",
+    "author": "Juliusz Bardach, Bogusław Leśnodorski, Michał Pietrzak",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962901/book-covers/historia-ustroju-i-prawa-polskiego_juliusz-bardach-boguslaw-lesno_5eae5e.jpg"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Kawalier Maltański",
+    "author": "Czesław Czerniawski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962902/book-covers/kawalier-maltanski_czeslaw-czerniawski_e9a82b.jpg"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Deportacje i przemieszczenia ludności polskiej w głąb ZSRR 1939-1945",
+    "author": "Roj A. Miedwiediew",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962903/book-covers/deportacje-i-przemieszczenia-ludnosci-polskiej-w-g_roj-a-miedwiediew_e2e0a3.jpg"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Deportacje i przemieszczenia ludności polskiej w głąb ZSRR 1939-1945",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962904/book-covers/deportacje-i-przemieszczenia-ludnosci-polskiej-w-g_unknown-author_c7a7d5.jpg"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "LUDZIE STALINA",
+    "author": "Roj A. Miedwiediew",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962907/book-covers/ludzie-stalina_roj-a-miedwiediew_d5bc55.jpg"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "MÓWIĄCY DĄB",
+    "author": "George Sand",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1766962908/book-covers/mowiacy-dab_george-sand_ecb4bd.jpg"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Kapitan Fracasse",
+    "author": "Théophile Gautier",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715694/book-covers/kapitan-fracasse_th%C3%A9ophile-gautier_0139d3.jpg"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "PAMIĘTNIK ANNA\nSTA\nZJIJJ",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715697/book-covers/pamietnik-anna-sta-zjijj_unknown-author_c3d0d0.jpg"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Ludzie z węgla II",
+    "author": "NINA RYDZEWSKA",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715698/book-covers/ludzie-z-wegla-ii_nina-rydzewska_0c6e4b.jpg"
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Microsoft Office 97: Ćwiczenia z Excel 97",
+    "author": "Iwona Szymačha",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715699/book-covers/microsoft-office-97-cwiczenia-z-excel-97_iwona-szyma%C4%8Dha_35d80d.jpg"
+    ]
+  },
+  {
+    "id": "16",
+    "title": "abc robot szydelkowych",
+    "author": "Helena Gawrońska",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715700/book-covers/abc-robot-szydelkowych_helena-gawronska_3dd546.jpg"
+    ]
+  },
+  {
+    "id": "17",
+    "title": "WIES POD ZIEMIĄ",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715702/book-covers/wies-pod-ziemia_unknown-author_07dd85.jpg"
+    ]
+  },
+  {
+    "id": "18",
+    "title": "TERAPEUTKA",
+    "author": "B.A. PARIS",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715704/book-covers/terapeutka_ba-paris_511116.jpg"
+    ]
+  },
+  {
+    "id": "19",
+    "title": "DIETA W PROFILAKTYCE MIAŻDŻYCY JAK UNIKNĄĆ ZAWALU SERCA",
+    "author": "Aleksandra Cichocka, Wiktor B. Szafnik",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715705/book-covers/dieta-w-profilaktyce-miazdzycy-jak-uniknac-zawalu-_aleksandra-cichocka-wiktor-b-s_be9a21.jpg"
+    ]
+  },
+  {
+    "id": "20",
+    "title": "LET'S LEARN ENGLISH",
+    "author": "JANINA SMÓLSKA",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715706/book-covers/lets-learn-english_janina-smolska_c507f5.jpg"
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Kodeks drogowy z komentarzem",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715727/book-covers/kodeks-drogowy-z-komentarzem_unknown-author_15e591.jpg"
+    ]
+  },
+  {
+    "id": "22",
+    "title": "SZWAMBRANIA",
+    "author": "Lew Kassil",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715729/book-covers/szwambrania_lew-kassil_b5a961.jpg"
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Kazimierz Wielki",
+    "author": "Jerzy Wyrozumski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715731/book-covers/kazimierz-wielki_jerzy-wyrozumski_038b98.jpg"
+    ]
+  },
+  {
+    "id": "24",
+    "title": "ZORANY UGOR",
+    "author": "SZOLOCHOW",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715733/book-covers/zorany-ugor_szolochow_38b9b3.jpg"
+    ]
+  },
+  {
+    "id": "25",
+    "title": "RYBACTWO",
+    "author": "JAROSŁAW FILIPIAK, RAJMUND TRZEBIATOWSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715734/book-covers/rybactwo_jaroslaw-filipiak-rajmund-trze_47547c.jpg"
+    ]
+  },
+  {
+    "id": "26",
+    "title": "WYBÓR LITERATURY Z TEORII ROZWOJU SPOŁECZNEGO",
+    "author": "Nina Sadowska, Maria Mossakowska",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715734/book-covers/wybor-literatury-z-teorii-rozwoju-spolecznego_nina-sadowska-maria-mossakowsk_9f12cc.jpg"
+    ]
+  },
+  {
+    "id": "27",
+    "title": "WOJSKOWY PRZEGLĄD HISTORYCZNY",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715735/book-covers/wojskowy-przeglad-historyczny_unknown-author_05978e.jpg"
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Dzieje Pewnego Miasta",
+    "author": "M. Saltykow-Szczedrin",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715737/book-covers/dzieje-pewnego-miasta_m-saltykow-szczedrin_2a7d96.jpg"
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Pogromca Zwierząt",
+    "author": "James Fenimore Cooper",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715738/book-covers/pogromca-zwierzat_james-fenimore-cooper_6b1b23.jpg"
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Pan Tadeusz",
+    "author": "Adam Mickiewicz",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715739/book-covers/pan-tadeusz_adam-mickiewicz_c8a34e.jpg"
+    ]
+  },
+  {
+    "id": "31",
+    "title": "HISTORIA POLSKI",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716479/book-covers/historia-polski_unknown-author_c78772.jpg"
+    ]
+  },
+  {
+    "id": "32",
+    "title": "O OSOBLIWOSCIACH NAUK SPOLECZNYCH",
+    "author": "STANISŁAW OSSOWSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716480/book-covers/o-osobliwosciach-nauk-spolecznych_stanislaw-ossowski_397ab5.jpg"
+    ]
+  },
+  {
+    "id": "33",
+    "title": "Marta Fik. Przeciw, czyli za",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716483/book-covers/marta-fik-przeciw-czyli-za_unknown-author_23294f.jpg"
+    ]
+  },
+  {
+    "id": "34",
+    "title": "Wiatr od morza",
+    "author": "Stefan Żeromski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716486/book-covers/wiatr-od-morza_stefan-zeromski_592a11.jpg"
+    ]
+  },
+  {
+    "id": "35",
+    "title": "Hrabina Cosel",
+    "author": "J.I. Kraszewski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716488/book-covers/hrabina-cosel_ji-kraszewski_2435d0.jpg"
+    ]
+  },
+  {
+    "id": "36",
+    "title": "Przygody Tomka Sawyera",
+    "author": "Mark Twain",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716489/book-covers/przygody-tomka-sawyera_mark-twain_a92c86.jpg"
+    ]
+  },
+  {
+    "id": "37",
+    "title": "NAGI BRUK",
+    "author": "Stefan Żeromski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716490/book-covers/nagi-bruk_stefan-zeromski_45fbbe.jpg"
+    ]
+  },
+  {
+    "id": "38",
+    "title": "SŁOWNIK ORTOGRAFICZNY JĘZYKA POLSKIEGO",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716492/book-covers/slownik-ortograficzny-jezyka-polskiego_unknown-author_3ca384.jpg"
+    ]
+  },
+  {
+    "id": "39",
+    "title": "SŁOWNIK WYRAZÓW OBCYCH i ZWROTÓW OBCCOJĘZYCZNYCH",
+    "author": "Władysław Kopaliński",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716493/book-covers/slownik-wyrazow-obcych-i-zwrotow-obccojezycznych_wladyslaw-kopalinski_2276ab.jpg"
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Kolumbowie Rocznik 20",
+    "author": "Roman Bratny",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716495/book-covers/kolumbowie-rocznik-20_roman-bratny_ad8d62.jpg"
+    ]
+  },
+  {
+    "id": "41",
+    "title": "Régine Deforges: RowER 1939-1942",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716496/book-covers/r%C3%A9gine-deforges-rower-1939-1942_unknown-author_cfaf97.jpg"
+    ]
+  },
+  {
+    "id": "42",
+    "title": "DEFORGES",
+    "author": "REGINE HENRI MARTIN",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716498/book-covers/deforges_regine-henri-martin_4de64f.jpg"
+    ]
+  },
+  {
+    "id": "43",
+    "title": "NASZA MOWA OJCYZSTA",
+    "author": "WITOLD TASZYCKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716499/book-covers/nasza-mowa-ojcyzsta_witold-taszycki_51bec6.jpg"
+    ]
+  },
+  {
+    "id": "44",
+    "title": "PSY WOJNY",
+    "author": "FREDERICK FORSYTH",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716500/book-covers/psy-wojny_frederick-forsyth_7e2cc5.jpg"
+    ]
+  },
+  {
+    "id": "45",
+    "title": "WYSADZIĆ ROSJĘ",
+    "author": "Aleksander Litwinienko Jurij Felsztinski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716501/book-covers/wysadzic-rosje_aleksander-litwinienko-jurij-f_d0aead.jpg"
+    ]
+  },
+  {
+    "id": "46",
+    "title": "ŚWIATŁA BAKAŃOW",
+    "author": "Aleksander Ferdynand Zamojski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716502/book-covers/swiatla-bakanow_aleksander-ferdynand-zamojski_84f196.jpg"
+    ]
+  },
+  {
+    "id": "47",
+    "title": "Gustaw Morcinek Górniczy zakon",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716504/book-covers/gustaw-morcinek-gorniczy-zakon_unknown-author_52b5e6.jpg"
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Robur Zdobywca Pan Swiata",
+    "author": "JULES VERNE",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716505/book-covers/robur-zdobywca-pan-swiata_jules-verne_83c9f5.jpg"
+    ]
+  },
+  {
+    "id": "49",
+    "title": "KORDIA I CHAM",
+    "author": "Leon Kruczkowski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716507/book-covers/kordia-i-cham_leon-kruczkowski_5ce459.jpg"
+    ]
+  },
+  {
+    "id": "50",
+    "title": "W objęciach CASANOVY",
+    "author": "ROBERT FORYŚ",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716508/book-covers/w-objeciach-casanovy_robert-forys_fdd190.jpg"
+    ]
+  },
+  {
+    "id": "51",
+    "title": "Winnetou",
+    "author": "KAROL MAY",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716508/book-covers/winnetou_karol-may_9ec776.jpg"
+    ]
+  },
+  {
+    "id": "52",
+    "title": "Wimeton",
+    "author": "KAROL MAY",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716510/book-covers/wimeton_karol-may_843b18.jpg"
+    ]
+  },
+  {
+    "id": "53",
+    "title": "Pierwszy z trzech zwrotów o Władysławie Gomułce",
+    "author": "Inż. Ptasinski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716512/book-covers/pierwszy-z-trzech-zwrotow-o-wladyslawie-gomulce_inz-ptasinski_31c1aa.jpg"
+    ]
+  },
+  {
+    "id": "54",
+    "title": "Rybyactwo jeziorowe i rzeczne",
+    "author": "J. Szczerbowski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716513/book-covers/rybyactwo-jeziorowe-i-rzeczne_j-szczerbowski_0fa2fc.jpg"
+    ]
+  },
+  {
+    "id": "55",
+    "title": "Wiersze",
+    "author": "Adam Mickiewicz",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716514/book-covers/wiersze_adam-mickiewicz_d5d850.jpg"
+    ]
+  },
+  {
+    "id": "56",
+    "title": "Powiesci poetyckie, Ksigi narodu polskiego i pielgrzymstwa polskiego",
+    "author": "Adam Mickiewicz",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716515/book-covers/powiesci-poetyckie-ksigi-narodu-polskiego-i-pielgr_adam-mickiewicz_216dc1.jpg"
+    ]
+  },
+  {
+    "id": "57",
+    "title": "Utwory\ndramatyczne",
+    "author": "Adam Mickiewicz",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716516/book-covers/utwory-dramatyczne_adam-mickiewicz_9ee081.jpg"
+    ]
+  },
+  {
+    "id": "58",
+    "title": "Pisma wierszem i prozą",
+    "author": "Cyprian Norwid",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716518/book-covers/pisma-wierszem-i-proza_cyprian-norwid_91dbd2.jpg"
+    ]
+  },
+  {
+    "id": "59",
+    "title": "Gra w Boga",
+    "author": "Greg Iles",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716519/book-covers/gra-w-boga_greg-iles_da5ff5.jpg"
+    ]
+  },
+  {
+    "id": "60",
+    "title": "Słownik Ortograficzny",
+    "author": "BUCHMANN",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716521/book-covers/slownik-ortograficzny_buchmann_9e5739.jpg"
+    ]
+  },
+  {
+    "id": "61",
+    "title": "WSZYSTKO ZOSTAJE W RODZINIE",
+    "author": "MATS OLSSON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716522/book-covers/wszystko-zostaje-w-rodzinie_mats-olsson_a224b6.jpg"
+    ]
+  },
+  {
+    "id": "62",
+    "title": "WYPRAWA CZAROWNIC",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716524/book-covers/wyprawa-czarownic_terry-pratchett_acabd0.jpg"
+    ]
+  },
+  {
+    "id": "63",
+    "title": "WIECZÓR TRZECH KRÓLI",
+    "author": "William Shakespeare",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716525/book-covers/wieczor-trzech-kroli_william-shakespeare_f346a1.jpg"
+    ]
+  },
+  {
+    "id": "64",
+    "title": "Marian Pilot",
+    "author": "Laureat Nagrody Literackiej NIKE",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716526/book-covers/marian-pilot_laureat-nagrody-literackiej-ni_cf4f48.jpg"
+    ]
+  },
+  {
+    "id": "65",
+    "title": "ROZWAZNA CZY ROMANTYCZNA?",
+    "author": "Anna Karpińska",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716527/book-covers/rozwazna-czy-romantyczna_anna-karpinska_8cb50a.jpg"
+    ]
+  },
+  {
+    "id": "66",
+    "title": "NETWORK MARKETING Sposób na życie",
+    "author": "Janusz Szajna",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716528/book-covers/network-marketing-sposob-na-zycie_janusz-szajna_d502bb.jpg"
+    ]
+  },
+  {
+    "id": "67",
+    "title": "Trudne sytuacje na drodze - skrzyżowania",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716529/book-covers/trudne-sytuacje-na-drodze-skrzyzowania_unknown-author_534c88.jpg"
+    ]
+  },
+  {
+    "id": "68",
+    "title": "Ronda. Trudne sytuacje na drodze",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716531/book-covers/ronda-trudne-sytuacje-na-drodze_unknown-author_1098fb.jpg"
+    ]
+  },
+  {
+    "id": "69",
+    "title": "Kuchnia włoska",
+    "author": "Marianne Piepenstock",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716533/book-covers/kuchnia-wloska_marianne-piepenstock_254c35.jpg"
+    ]
+  },
+  {
+    "id": "70",
+    "title": "SŁOWNIK SZKOLNY Nauka o języku",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716534/book-covers/slownik-szkolny-nauka-o-jezyku_unknown-author_69d3dc.jpg"
+    ]
+  },
+  {
+    "id": "71",
+    "title": "Boldyn",
+    "author": "PUTRAMENT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716535/book-covers/boldyn_putrament_90b4ad.jpg"
+    ]
+  },
+  {
+    "id": "72",
+    "title": "\"Dolina milczących ludzi\"",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716537/book-covers/dolina-milczacych-ludzi_unknown-author_011c35.jpg"
+    ]
+  },
+  {
+    "id": "73",
+    "title": "DEWAJTIS",
+    "author": "MARIA RODZIEWICZÓWNA",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716538/book-covers/dewajtis_maria-rodziewiczowna_15d6ac.jpg"
+    ]
+  },
+  {
+    "id": "74",
+    "title": "WŁADCA OGNIA",
+    "author": "Emilio Salgari",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716539/book-covers/wladca-ognia_emilio-salgari_1bdc83.jpg"
+    ]
+  },
+  {
+    "id": "75",
+    "title": "Woda dla Słoni",
+    "author": "SARA GRUEN",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716540/book-covers/woda-dla-sloni_sara-gruen_1c3b2d.jpg"
+    ]
+  },
+  {
+    "id": "76",
+    "title": "JEDNYM STRZALEM",
+    "author": "LEE CHILD",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716541/book-covers/jednym-strzalem_lee-child_16d1ae.jpg"
+    ]
+  },
+  {
+    "id": "77",
+    "title": "CZARNE WAMPUMY GŁOSZĄ WOJNĘ",
+    "author": "Jan Szczepański",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716542/book-covers/czarne-wampumy-glosza-wojne_jan-szczepanski_ba6291.jpg"
+    ]
+  },
+  {
+    "id": "78",
+    "title": "Bolesław Śmiały - Szczodry i biskup Stanisław",
+    "author": "Tadeusz Grudziński",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716543/book-covers/boleslaw-smialy-szczodry-i-biskup-stanislaw_tadeusz-grudzinski_e0e0dc.jpg"
+    ]
+  },
+  {
+    "id": "79",
+    "title": "ANNA KARENINA",
+    "author": "Lew Tołstoj",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716545/book-covers/anna-karenina_lew-tolstoj_6128dd.jpg"
+    ]
+  },
+  {
+    "id": "80",
+    "title": "Wakacje w Borkach",
+    "author": "Jadwiga Korczakowska",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716547/book-covers/wakacje-w-borkach_jadwiga-korczakowska_7fe328.jpg"
+    ]
+  },
+  {
+    "id": "81",
+    "title": "SZABLE I RAPIERY",
+    "author": "Stanisław M. Jankowski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716548/book-covers/szable-i-rapiery_stanislaw-m-jankowski_e6cb9b.jpg"
+    ]
+  },
+  {
+    "id": "82",
+    "title": "Grochola Osobosość ćmy",
+    "author": "Katarzyna",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716550/book-covers/grochola-osobososc-cmy_katarzyna_0d59b1.jpg"
+    ]
+  },
+  {
+    "id": "83",
+    "title": "Przygody o Basie",
+    "author": "Kornel Makuszyński",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716551/book-covers/przygody-o-basie_kornel-makuszynski_9c6ef7.jpg"
+    ]
+  },
+  {
+    "id": "84",
+    "title": "Śmierć Iwana Iljicza",
+    "author": "Tołstoj",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716552/book-covers/smierc-iwana-iljicza_tolstoj_adee46.jpg"
+    ]
+  },
+  {
+    "id": "85",
+    "title": "ANNA KARENINA",
+    "author": "Lew Tołstoj",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716553/book-covers/anna-karenina_lew-tolstoj_9623d1.jpg"
+    ]
+  },
+  {
+    "id": "86",
+    "title": "Piąta królowa",
+    "author": "Ford Madox Ford",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716555/book-covers/piata-krolowa_ford-madox-ford_cb302a.jpg"
+    ]
+  },
+  {
+    "id": "87",
+    "title": "Różaniec z Ojcem Świętym",
+    "author": "Jan Paweł II",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716556/book-covers/rozaniec-z-ojcem-swietym_jan-pawel-ii_e808e1.jpg"
+    ]
+  },
+  {
+    "id": "88",
+    "title": "Pruǿótó̀n",
+    "author": "Bolesóáón",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716557/book-covers/pru%C3%B8oton_bolesoaon_bea477.jpg"
+    ]
+  },
+  {
+    "id": "89",
+    "title": "Prus Emancypantki",
+    "author": "Boleslaw Prus",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716558/book-covers/prus-emancypantki_boleslaw-prus_3ec5a5.jpg"
+    ]
+  },
+  {
+    "id": "90",
+    "title": "CHAMBER",
+    "author": "WILLIAM DIEHL",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716560/book-covers/chamber_william-diehl_c9e8eb.jpg"
+    ]
+  },
+  {
+    "id": "91",
+    "title": "Zoo",
+    "author": "Alan Dean Foster",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716562/book-covers/zoo_alan-dean-foster_28788a.jpg"
+    ]
+  },
+  {
+    "id": "92",
+    "title": "BERLIN GAME",
+    "author": "LEN DEIGHTON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716563/book-covers/berlin-game_len-deighton_5564f3.jpg"
+    ]
+  },
+  {
+    "id": "93",
+    "title": "Śmierć Iwana Iljicza",
+    "author": "Lew Tołstoj",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716564/book-covers/smierc-iwana-iljicza_lew-tolstoj_2a8d72.jpg"
+    ]
+  },
+  {
+    "id": "94",
+    "title": "Różaniec z Ojcem Świętym",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716565/book-covers/rozaniec-z-ojcem-swietym_unknown-author_5aa2a5.jpg"
+    ]
+  },
+  {
+    "id": "95",
+    "title": "ZA SASOW",
+    "author": "JÓZEF IGNACY KRASZEWSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716566/book-covers/za-sasow_jozef-ignacy-kraszewski_2716d0.jpg"
+    ]
+  },
+  {
+    "id": "96",
+    "title": "LITERATURA WSPÓŁCZESNA",
+    "author": "RYSZARD MATUSZEWSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716567/book-covers/literatura-wspolczesna_ryszard-matuszewski_3a3fc4.jpg"
+    ]
+  },
+  {
+    "id": "97",
+    "title": "ZAWISZA CZARNY",
+    "author": "Stefan M. Kuczyński",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716569/book-covers/zawisza-czarny_stefan-m-kuczynski_ecdbcb.jpg"
+    ]
+  },
+  {
+    "id": "98",
+    "title": "Rzeczpospolita Obojga Narodów",
+    "author": "Paweł Jasienica",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716570/book-covers/rzeczpospolita-obojga-narodow_pawel-jasienica_81488c.jpg"
+    ]
+  },
+  {
+    "id": "99",
+    "title": "Rzeczpospolita Obojga Narodów",
+    "author": "Paweł Jasienica",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716572/book-covers/rzeczpospolita-obojga-narodow_pawel-jasienica_04d03e.jpg"
+    ]
+  },
+  {
+    "id": "100",
+    "title": "WESELE",
+    "author": "STANISLAW WYSPINSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716573/book-covers/wesele_stanislaw-wyspinski_8edb8b.jpg"
+    ]
+  },
+  {
+    "id": "101",
+    "title": "Polska Piastów",
+    "author": "Paweł Jasienica",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716574/book-covers/polska-piastow_pawel-jasienica_247a62.jpg"
+    ]
+  },
+  {
+    "id": "102",
+    "title": "NAWRACANIE JUDASZA",
+    "author": "STEFAN ŻEROMSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716575/book-covers/nawracanie-judasza_stefan-zeromski_4e3b71.jpg"
+    ]
+  },
+  {
+    "id": "103",
+    "title": "maly rocznik statystyczny 1993",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716576/book-covers/maly-rocznik-statystyczny-1993_unknown-author_d3d2ae.jpg"
+    ]
+  },
+  {
+    "id": "104",
+    "title": "Commentary '88",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716577/book-covers/commentary-88_unknown-author_f425a0.jpg"
+    ]
+  },
+  {
+    "id": "105",
+    "title": "Kraków za łoktka",
+    "author": "Józef Ignacy Kraszewski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716579/book-covers/krakow-za-loktka_jozef-ignacy-kraszewski_041bfb.jpg"
+    ]
+  },
+  {
+    "id": "106",
+    "title": "Rzeczpospolita Obojga Narodów",
+    "author": "Paweł Jasienica",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716580/book-covers/rzeczpospolita-obojga-narodow_pawel-jasienica_a86e9b.jpg"
+    ]
+  },
+  {
+    "id": "107",
+    "title": "BOLESŁAW PRUS",
+    "author": "Janina Kulczycka-Saloni",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716581/book-covers/boleslaw-prus_janina-kulczycka-saloni_f6cf7f.jpg"
+    ]
+  },
+  {
+    "id": "108",
+    "title": "Polska Jagiellonów",
+    "author": "Paweł Jasienica",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716583/book-covers/polska-jagiellonow_pawel-jasienica_872dab.jpg"
+    ]
+  },
+  {
+    "id": "109",
+    "title": "FARAON",
+    "author": "BOLESŁAW PRUS",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716585/book-covers/faraon_boleslaw-prus_4617d8.jpg"
+    ]
+  },
+  {
+    "id": "110",
+    "title": "FARAON",
+    "author": "BOLESŁAW PRUS",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716588/book-covers/faraon_boleslaw-prus_3f009d.jpg"
+    ]
+  },
+  {
+    "id": "111",
+    "title": "Nowy ślad Czarnych Stóp",
+    "author": "Seweryna Szmaglewska",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716589/book-covers/nowy-slad-czarnych-stop_seweryna-szmaglewska_9be536.jpg"
+    ]
+  },
+  {
+    "id": "112",
+    "title": "W tył, zwrot, pani Lot!",
+    "author": "Ephraim Kishon",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716591/book-covers/w-tyl-zwrot-pani-lot_ephraim-kishon_7ae50a.jpg"
+    ]
+  },
+  {
+    "id": "113",
+    "title": "Fabryka Oficerow",
+    "author": "Hans Hellmut Kirst",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716592/book-covers/fabryka-oficerow_hans-hellmut-kirst_07f462.jpg"
+    ]
+  },
+  {
+    "id": "114",
+    "title": "Fabryka oficerów",
+    "author": "Hans Hellmut Kirst",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716593/book-covers/fabryka-oficerow_hans-hellmut-kirst_db82ef.jpg"
+    ]
+  },
+  {
+    "id": "115",
+    "title": "303 duwizjon",
+    "author": "ARKADY FIEDLER",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716595/book-covers/303-duwizjon_arkady-fiedler_cb9a03.jpg"
+    ]
+  },
+  {
+    "id": "116",
+    "title": "ZBROJNI",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716597/book-covers/zbrojni_terry-pratchett_d43ac6.jpg"
+    ]
+  },
+  {
+    "id": "117",
+    "title": "W PUSTYNI I W PUSZCZY",
+    "author": "SIENKIEWICZ",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716598/book-covers/w-pustyni-i-w-puszczy_sienkiewicz_77df88.jpg"
+    ]
+  },
+  {
+    "id": "118",
+    "title": "RODZIEWICZÓWNA CZAHARY",
+    "author": "MARIA",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716600/book-covers/rodziewiczowna-czahary_maria_0cec44.jpg"
+    ]
+  },
+  {
+    "id": "119",
+    "title": "Wigwamy rezerwaty slumsy",
+    "author": "Ewa Nowicka Izabella Rusinowa",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716601/book-covers/wigwamy-rezerwaty-slumsy_ewa-nowicka-izabella-rusinowa_4bd491.jpg"
+    ]
+  },
+  {
+    "id": "120",
+    "title": "Księga dżungli Druga Księga dżungli",
+    "author": "Rudyard Kipling",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716602/book-covers/ksiega-dzungli-druga-ksiega-dzungli_rudyard-kipling_67baf0.jpg"
+    ]
+  },
+  {
+    "id": "121",
+    "title": "ZANIM ZASNĘ",
+    "author": "S. J. WATSON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716604/book-covers/zanim-zasne_s-j-watson_39e702.jpg"
+    ]
+  },
+  {
+    "id": "122",
+    "title": "Nie tylko dla jarosów",
+    "author": "Zofia Zaliustowska",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716605/book-covers/nie-tylko-dla-jarosow_zofia-zaliustowska_7a62da.jpg"
+    ]
+  },
+  {
+    "id": "123",
+    "title": "ANTOLOGIA ANEGdoty ANTYCZNEJ",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716606/book-covers/antologia-anegdoty-antycznej_unknown-author_66fd71.jpg"
+    ]
+  },
+  {
+    "id": "124",
+    "title": "WOJNA TROJAŃSKA",
+    "author": "Aleksander Krawczuk",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716608/book-covers/wojna-trojanska_aleksander-krawczuk_9a7d64.jpg"
+    ]
+  },
+  {
+    "id": "125",
+    "title": "Tradycja i nowoczesność",
+    "author": "Czytelnik",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716609/book-covers/tradycja-i-nowoczesnosc_czytelnik_6abdb1.jpg"
+    ]
+  },
+  {
+    "id": "126",
+    "title": "BIBLIOTEKA NARODOWA",
+    "author": "JULIAN URSYN NIEMCEWICZ",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716611/book-covers/biblioteka-narodowa_julian-ursyn-niemcewicz_701559.jpg"
+    ]
+  },
+  {
+    "id": "127",
+    "title": "Opowiadania księga dżungli",
+    "author": "Eliza Orzeszkowa",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716612/book-covers/opowiadania-ksiega-dzungli_eliza-orzeszkowa_c9bd39.jpg"
+    ]
+  },
+  {
+    "id": "128",
+    "title": "Ziemia obiecana",
+    "author": "Reymont",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716613/book-covers/ziemia-obiecana_reymont_2807f6.jpg"
+    ]
+  },
+  {
+    "id": "129",
+    "title": "Wieczór w Bizancjum",
+    "author": "Irwin Shaw",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716614/book-covers/wieczor-w-bizancjum_irwin-shaw_80fc42.jpg"
+    ]
+  },
+  {
+    "id": "130",
+    "title": "Wojownicy Piekieł",
+    "author": "GRAHAM MASTERTON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716616/book-covers/wojownicy-piekiel_graham-masterton_4d6a72.jpg"
+    ]
+  },
+  {
+    "id": "131",
+    "title": "ŚWIAT CZŁOWIEKA ŚWIAT KULTURY",
+    "author": "EWA NOWICKA",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716618/book-covers/swiat-czlowieka-swiat-kultury_ewa-nowicka_3361cc.jpg"
+    ]
+  },
+  {
+    "id": "132",
+    "title": "CH2OPI",
+    "author": "REYMONT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716620/book-covers/ch2opi_reymont_8fc56a.jpg"
+    ]
+  },
+  {
+    "id": "133",
+    "title": "Chłopi",
+    "author": "Reymont",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716621/book-covers/chlopi_reymont_157cce.jpg"
+    ]
+  },
+  {
+    "id": "134",
+    "title": "ŚLADEM Jaszczurki",
+    "author": "Jerzy Jan Kolendo",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716623/book-covers/sladem-jaszczurki_jerzy-jan-kolendo_9c1764.jpg"
+    ]
+  },
+  {
+    "id": "135",
+    "title": "Pamiętniki",
+    "author": "Jan Chryzostom Pasek",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716624/book-covers/pamietniki_jan-chryzostom-pasek_dc5ebb.jpg"
+    ]
+  },
+  {
+    "id": "136",
+    "title": "DYWAN",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716626/book-covers/dywan_terry-pratchett_8fa87b.jpg"
+    ]
+  },
+  {
+    "id": "137",
+    "title": "Cena Szczęścia",
+    "author": "Ellinor Rafaelsen",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716627/book-covers/cena-szczescia_ellinor-rafaelsen_ff7027.jpg"
+    ]
+  },
+  {
+    "id": "138",
+    "title": "SZPITAL ŚW. HALLVARDA",
+    "author": "Bez Śladu",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716629/book-covers/szpital-sw-hallvarda_bez-sladu_3cf74f.jpg"
+    ]
+  },
+  {
+    "id": "139",
+    "title": "Rozszczepienie",
+    "author": "Fay Weldon",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716630/book-covers/rozszczepienie_fay-weldon_2fce5d.jpg"
+    ]
+  },
+  {
+    "id": "140",
+    "title": "Śluby panieńskie",
+    "author": "Aleksander Fredro",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716631/book-covers/sluby-panienskie_aleksander-fredro_b58c01.jpg"
+    ]
+  },
+  {
+    "id": "141",
+    "title": "Uśmiech ojca Pio",
+    "author": "Ojciec Andrea D'Ascanio",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716632/book-covers/usmiech-ojca-pio_ojciec-andrea-dascanio_9c99b2.jpg"
+    ]
+  },
+  {
+    "id": "142",
+    "title": "MARIA RODZIEWICZÓWNA Między ustami a brzegiem pucharu",
+    "author": "Stefan Żeromski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716633/book-covers/maria-rodziewiczowna-miedzy-ustami-a-brzegiem-puch_stefan-zeromski_91e38f.jpg"
+    ]
+  },
+  {
+    "id": "143",
+    "title": "Dziedzictwo",
+    "author": "Nora Roberts",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716634/book-covers/dziedzictwo_nora-roberts_cecc26.jpg"
+    ]
+  },
+  {
+    "id": "144",
+    "title": "Zaufałem Twojemu Miłosierdziu Myśli na każdy dzień",
+    "author": "ks. Michał Sopoćko spowiednik św. Faustyny",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716635/book-covers/zaufalem-twojemu-milosierdziu-mysli-na-kazdy-dzien_ks-michal-sopocko-spowiednik-s_7273a9.jpg"
+    ]
+  },
+  {
+    "id": "145",
+    "title": "Serce na temblaku",
+    "author": "KATARZYNA GROCHOLA",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716636/book-covers/serce-na-temblaku_katarzyna-grochola_5553f9.jpg"
+    ]
+  },
+  {
+    "id": "146",
+    "title": "AFERA KOBANA",
+    "author": "Marta Węgiel",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716638/book-covers/afera-kobana_marta-wegiel_df6a85.jpg"
+    ]
+  },
+  {
+    "id": "147",
+    "title": "OJCIEC MÓWI DO SWOICH DZIECI",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716639/book-covers/ojciec-mowi-do-swoich-dzieci_unknown-author_6f3e6f.jpg"
+    ]
+  },
+  {
+    "id": "148",
+    "title": "Gorąca wieś Ambinanitelo",
+    "author": "Arkady Fiedler",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716640/book-covers/goraca-wies-ambinanitelo_arkady-fiedler_75ffb2.jpg"
+    ]
+  },
+  {
+    "id": "149",
+    "title": "SŁOWNICZEK ORTOGRAFICZNY Z ZASADAMI PISOWNI",
+    "author": "ST. JODŁOWSKI I W. TANZYCKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716641/book-covers/slowniczek-ortograficzny-z-zasadami-pisowni_st-jodlowski-i-w-tanzycki_580cfe.jpg"
+    ]
+  },
+  {
+    "id": "150",
+    "title": "OD WESTERPLATTE DO BERLINA",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716642/book-covers/od-westerplatte-do-berlina_unknown-author_8b85d8.jpg"
+    ]
+  },
+  {
+    "id": "151",
+    "title": "Atlas Polska, Europa, Świat",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716643/book-covers/atlas-polska-europa-swiat_unknown-author_32ea3f.jpg"
+    ]
+  },
+  {
+    "id": "152",
+    "title": "SZWEDZI W WARSZAWIE",
+    "author": "Walery Przyborowski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716644/book-covers/szwedzi-w-warszawie_walery-przyborowski_97e459.jpg"
+    ]
+  },
+  {
+    "id": "153",
+    "title": "DŁUGI STÓŁ",
+    "author": "Kazimierz Żórawski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716646/book-covers/dlugi-stol_kazimierz-zorawski_608558.jpg"
+    ]
+  },
+  {
+    "id": "154",
+    "title": "ŁOWCY WILKÓW ZŁOTA PRZYGÓD",
+    "author": "James Oliver Curwood Jerzy Marlicz",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716647/book-covers/lowcy-wilkow-zlota-przygod_james-oliver-curwood-jerzy-mar_3c9b34.jpg"
+    ]
+  },
+  {
+    "id": "155",
+    "title": "Krwawe Wino",
+    "author": "Erica Spindler",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716648/book-covers/krwawe-wino_erica-spindler_daf3a8.jpg"
+    ]
+  },
+  {
+    "id": "156",
+    "title": "SEKRETNY UKŁAD",
+    "author": "CAITLIN KITTREDGE",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716650/book-covers/sekretny-uklad_caitlin-kittredge_3f65a6.jpg"
+    ]
+  },
+  {
+    "id": "157",
+    "title": "Matka Boża Przygnagła",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716651/book-covers/matka-boza-przygnagla_unknown-author_2ac137.jpg"
+    ]
+  },
+  {
+    "id": "158",
+    "title": "mordercy z Wilhelmstrasse",
+    "author": "Franciszek Bernaś",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716652/book-covers/mordercy-z-wilhelmstrasse_franciszek-bernas_ee2e88.jpg"
+    ]
+  },
+  {
+    "id": "159",
+    "title": "Oko Proroka",
+    "author": "Władysław Łoziński",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716654/book-covers/oko-proroka_wladyslaw-lozinski_04eefa.jpg"
+    ]
+  },
+  {
+    "id": "160",
+    "title": "OD FIORDU DO ATOLU",
+    "author": "Wiesław Górnicki",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716656/book-covers/od-fiordu-do-atolu_wieslaw-gornicki_f55225.jpg"
+    ]
+  },
+  {
+    "id": "161",
+    "title": "STARA BAŚŃ",
+    "author": "JÓZEF IGNACY KRASZEWSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716657/book-covers/stara-basn_jozef-ignacy-kraszewski_b60025.jpg"
+    ]
+  },
+  {
+    "id": "162",
+    "title": "Opowieść o prawdziwym człowieku",
+    "author": "BORYS POLEWOJ",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716658/book-covers/opowiesc-o-prawdziwym-czlowieku_borys-polewoj_59eeb8.jpg"
+    ]
+  },
+  {
+    "id": "163",
+    "title": "Diana",
+    "author": "GRAHAM MASTERTON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716659/book-covers/diana_graham-masterton_f875fe.jpg"
+    ]
+  },
+  {
+    "id": "164",
+    "title": "Trucicielka",
+    "author": "Eric-Emmanuel Schmitt",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716660/book-covers/trucicielka_eric-emmanuel-schmitt_dc32f8.jpg"
+    ]
+  },
+  {
+    "id": "165",
+    "title": "PANOWIE I DAMY",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716662/book-covers/panowie-i-damy_terry-pratchett_f66613.jpg"
+    ]
+  },
+  {
+    "id": "166",
+    "title": "RUCHOME OBRAZKI",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716664/book-covers/ruchome-obrazki_terry-pratchett_a9a51b.jpg"
+    ]
+  },
+  {
+    "id": "167",
+    "title": "alchemik",
+    "author": "Paulo Coelho",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716665/book-covers/alchemik_paulo-coelho_d71118.jpg"
+    ]
+  },
+  {
+    "id": "168",
+    "title": "list z tamtego świata",
+    "author": "Kornel Makuszyński",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716666/book-covers/list-z-tamtego-swiata_kornel-makuszynski_eac60f.jpg"
+    ]
+  },
+  {
+    "id": "169",
+    "title": "ŚLEDZTWO W SPRAWIE LUDOBÓJSTWA",
+    "author": "GERARD DE VILLIERS",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716668/book-covers/sledztwo-w-sprawie-ludobojstwa_gerard-de-villiers_705fca.jpg"
+    ]
+  },
+  {
+    "id": "170",
+    "title": "KLEN",
+    "author": "BIBLIOTECZKA WIADOMOSCI WEDKARSKICH",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716669/book-covers/klen_biblioteczka-wiadomosci-wedkar_1c330e.jpg"
+    ]
+  },
+  {
+    "id": "171",
+    "title": "Planeta Harpii",
+    "author": "Albert Walentinow",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716670/book-covers/planeta-harpii_albert-walentinow_e2e38b.jpg"
+    ]
+  },
+  {
+    "id": "172",
+    "title": "ATLANTYDA - FANTAZJA CZY RZECZYWISTOŚĆ?",
+    "author": "Andrzej Marks",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716671/book-covers/atlantyda-fantazja-czy-rzeczywistosc_andrzej-marks_eb380d.jpg"
+    ]
+  },
+  {
+    "id": "173",
+    "title": "Z AFRYKA W SERCU",
+    "author": "LUIGI BUTERA",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716673/book-covers/z-afryka-w-sercu_luigi-butera_296c22.jpg"
+    ]
+  },
+  {
+    "id": "174",
+    "title": "Cthulhu",
+    "author": "Howard Phillips Lovecraft",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716674/book-covers/cthulhu_howard-phillips-lovecraft_e7410f.jpg"
+    ]
+  },
+  {
+    "id": "175",
+    "title": "JONASZ",
+    "author": "JAMES HERBERT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716675/book-covers/lodz_james-herbert_324e40.jpg"
+    ]
+  },
+  {
+    "id": "176",
+    "title": "MEN AT ARMS",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716676/book-covers/men-at-arms_terry-pratchett_767279.jpg"
+    ]
+  },
+  {
+    "id": "177",
+    "title": "Small Gods",
+    "author": "Terry Pratchett",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716678/book-covers/small-gods_terry-pratchett_9b1373.jpg"
+    ]
+  },
+  {
+    "id": "178",
+    "title": "FEET OF CLAY",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716680/book-covers/feet-of-clay_terry-pratchett_48499b.jpg"
+    ]
+  },
+  {
+    "id": "179",
+    "title": "Uradze Serce",
+    "author": "Virginia C. Andrews",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716681/book-covers/uradze-serce_virginia-c-andrews_4373a6.jpg"
+    ]
+  },
+  {
+    "id": "180",
+    "title": "Mówimy po angielsku",
+    "author": "Leon Leszek Sznutnik",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716682/book-covers/mowimy-po-angielsku_leon-leszek-sznutnik_fc000e.jpg"
+    ]
+  },
+  {
+    "id": "181",
+    "title": "NA GLINIANYCH NOGACH",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716684/book-covers/na-glinianych-nogach_terry-pratchett_bac20d.jpg"
+    ]
+  },
+  {
+    "id": "182",
+    "title": "NOMOW",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716686/book-covers/nomow_terry-pratchett_447ad8.jpg"
+    ]
+  },
+  {
+    "id": "183",
+    "title": "NOMOW",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716687/book-covers/nomow_terry-pratchett_b9507c.jpg"
+    ]
+  },
+  {
+    "id": "184",
+    "title": "Nomor: Księga kopania",
+    "author": "Terry Pratchett",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716689/book-covers/nomor-ksiega-kopania_terry-pratchett_2ddd3c.jpg"
+    ]
+  },
+  {
+    "id": "185",
+    "title": "ZEMSTA MANITOU",
+    "author": "GRAHAM MASTERTON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716691/book-covers/zemsta-manitou_graham-masterton_ea1c67.jpg"
+    ]
+  },
+  {
+    "id": "186",
+    "title": "Demony Normandii",
+    "author": "GRAHAM MASTERTON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716692/book-covers/demony-normandii_graham-masterton_a07273.jpg"
+    ]
+  },
+  {
+    "id": "187",
+    "title": "THE MANITOU",
+    "author": "GRAHAM MASTERTON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716694/book-covers/the-manitou_graham-masterton_3a5158.jpg"
+    ]
+  },
+  {
+    "id": "188",
+    "title": "Fala gniewu",
+    "author": "WINSTON GRAHAM",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716695/book-covers/fala-gniewu_winston-graham_5bd4ca.jpg"
+    ]
+  },
+  {
+    "id": "189",
+    "title": "TAJEMNICA ATLANTYDY",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716697/book-covers/tajemnica-atlantydy_unknown-author_960baf.jpg"
+    ]
+  },
+  {
+    "id": "190",
+    "title": "NASZ INNY WSZECHŚWIAT",
+    "author": "PAUL HALPERN",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716698/book-covers/nasz-inny-wszechswiat_paul-halpern_d85d15.jpg"
+    ]
+  },
+  {
+    "id": "191",
+    "title": "TOMEK U ŹRÓDEŁ AMAZONKI",
+    "author": "Alfred Szklarski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716710/book-covers/tomek-u-zrodel-amazonki_alfred-szklarski_98ca4d.jpg"
+    ]
+  },
+  {
+    "id": "192",
+    "title": "TOMEK W GRAN CHAO",
+    "author": "Alfred Szklarski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716717/book-covers/tomek-w-gran-chao_alfred-szklarski_79ed66.jpg"
+    ]
+  },
+  {
+    "id": "193",
+    "title": "TOMEK NA WOJENNEJ ŚCIEŻCE",
+    "author": "Alfred SzkIarski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716719/book-covers/tomek-na-wojennej-sciezce_alfred-szkiarski_e6fd7a.jpg"
+    ]
+  },
+  {
+    "id": "194",
+    "title": "Blondynka śpiewa w Ukajali: Nowe przygody w Ameryce Południowej",
+    "author": "Beata Pawlikowska",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716720/book-covers/blondynka-spiewa-w-ukajali-nowe-przygody-w-ameryce_beata-pawlikowska_65ebfd.jpg"
+    ]
+  },
+  {
+    "id": "195",
+    "title": "ZBORDNIE",
+    "author": "JOSEFA FRITZLA, ANALIZA FAKTOw",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716722/book-covers/zbordnie_josefa-fritzla-analiza-faktow_2c1fca.jpg"
+    ]
+  },
+  {
+    "id": "196",
+    "title": "KREW",
+    "author": "BARTOSZ SZCZYGIELSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716723/book-covers/krew_bartosz-szczygielski_caaed9.jpg"
+    ]
+  },
+  {
+    "id": "197",
+    "title": "HISTORIE NIEWIARYGODNE",
+    "author": "JULIUSZ JERZY HERLINGER",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716724/book-covers/historie-niewiarygodne_juliusz-jerzy-herlinger_2ecef5.jpg"
+    ]
+  },
+  {
+    "id": "198",
+    "title": "MUZYKA DUSZY",
+    "author": "TERRY PRATCHETT",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716726/book-covers/muzyka-duszy_terry-pratchett_69cf45.jpg"
+    ]
+  }
+]
