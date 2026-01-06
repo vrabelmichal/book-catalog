@@ -51,7 +51,7 @@ book-catalog/
 │   ├── ImageGallery.tsx         # Image gallery with thumbnails
 │   └── SearchBar.tsx            # Search and filter controls
 ├── data/
-│   └── books.json               # Book catalog data
+│   └── books_data.json               # Book catalog data
 ├── next.config.js               # Next.js configuration
 ├── tailwind.config.ts           # Tailwind CSS configuration
 └── tsconfig.json                # TypeScript configuration
@@ -59,7 +59,7 @@ book-catalog/
 
 ## Data Structure
 
-Each book in `data/books.json` has:
+Each book in `data/books_data.json` has:
 
 ```typescript
 {

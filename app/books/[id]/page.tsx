@@ -5,7 +5,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import ImageGallery from '@/components/ImageGallery';
 import LanguageToggle from '@/components/LanguageToggle';
-import books from '@/data/books.json';
+import books from '@/data/books_data.json';
 import { useLanguage } from '@/lib/LanguageContext';
 
 interface Book {

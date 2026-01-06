@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
 import BookCard from './BookCard';
-import books from '@/data/books.json';
+import books from '@/data/books_data.json';
 import { useLanguage } from '@/lib/LanguageContext';
 import { combinedScore } from '@/lib/search';
 
