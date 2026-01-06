@@ -2176,5 +2176,302 @@
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716726/book-covers/muzyka-duszy_terry-pratchett_69cf45.jpg"
     ]
+  },
+  {
+    "id": "199",
+    "title": "Rybówstwo",
+    "author": "J. Szczerbowski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743679/book-covers/rybowstwo_j-szczerbowski_aed40e.jpg"
+    ]
+  },
+  {
+    "id": "200",
+    "title": "WARSZAWA Plan miasta",
+    "author": "Katarzyna GROCHOLA",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743680/book-covers/warszawa-plan-miasta_katarzyna-grochola_4c931b.jpg"
+    ]
+  },
+  {
+    "id": "201",
+    "title": "TOMEK WŚRÓD BROWCÓW GŁOW",
+    "author": "Alfred Szkalski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743683/book-covers/tomek-wsrod-browcow-glow_alfred-szkalski_68f671.jpg"
+    ]
+  },
+  {
+    "id": "202",
+    "title": "SENNI ZWYCIĘZCY",
+    "author": "Marek Oramus",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743684/book-covers/senni-zwyciezcy_marek-oramus_086c94.jpg"
+    ]
+  },
+  {
+    "id": "203",
+    "title": "TOMEK NA TROPACH YETI",
+    "author": "Alfred Szklarški",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743685/book-covers/tomek-na-tropach-yeti_alfred-szklar%C5%A1ki_cc60c3.jpg"
+    ]
+  },
+  {
+    "id": "204",
+    "title": "W. Axl Rose: The Unauthorized Biography",
+    "author": "Mick Wall",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743687/book-covers/w-axl-rose-the-unauthorized-biography_mick-wall_c87f74.jpg"
+    ]
+  },
+  {
+    "id": "205",
+    "title": "It Seems Excessive... but That Doesn't Mean It Didn't Happen",
+    "author": "Slash with Anthony Bozza",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743688/book-covers/it-seems-excessive-but-that-doesnt-mean-it-didnt-h_slash-with-anthony-bozza_4f7263.jpg"
+    ]
+  },
+  {
+    "id": "206",
+    "title": "Tajemnice podmorskiego świata",
+    "author": "PIOTR OBORSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743689/book-covers/tajemnice-podmorskiego-swiata_piotr-oborski_9c35ef.jpg"
+    ]
+  },
+  {
+    "id": "207",
+    "title": "TAJEMNICA GROBOWCA",
+    "author": "STEVE BERRY",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743690/book-covers/tajemnica-grobowca_steve-berry_67b5ac.jpg"
+    ]
+  },
+  {
+    "id": "208",
+    "title": "REINKARNACJA",
+    "author": "ANDRZEJ DONIMIRSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743691/book-covers/reinkarnacja_andrzej-donimirski_3ee04c.jpg"
+    ]
+  },
+  {
+    "id": "209",
+    "title": "BEZSENNOŚĆ",
+    "author": "STANISŁAW LEM",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743693/book-covers/bezsennosc_stanislaw-lem_84eafa.jpg"
+    ]
+  },
+  {
+    "id": "210",
+    "title": "Czytelnik",
+    "author": "Jan Brzechwa",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743694/book-covers/czytelnik_jan-brzechwa_1c09a8.jpg"
+    ]
+  },
+  {
+    "id": "211",
+    "title": "Ziemia i meteory",
+    "author": "Juliusz Verne",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743695/book-covers/ziemia-i-meteory_juliusz-verne_fd9285.jpg"
+    ]
+  },
+  {
+    "id": "212",
+    "title": "terroryzm",
+    "author": "Zbigniew Domarańczyk",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743696/book-covers/terroryzm_zbigniew-domaranczyk_6fde3f.jpg"
+    ]
+  },
+  {
+    "id": "213",
+    "title": "AMERYKANŹSKA GEJSZA",
+    "author": "LEA JACOBSON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743697/book-covers/amerykanzska-gejsza_lea-jacobson_ebdd7b.jpg"
+    ]
+  },
+  {
+    "id": "214",
+    "title": "TRANS ŚMIERCI",
+    "author": "GRAHAM MASTERTON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743698/book-covers/trans-smierci_graham-masterton_f3358b.jpg"
+    ]
+  },
+  {
+    "id": "215",
+    "title": "Oko Ewy",
+    "author": "Karin Fossum",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743699/book-covers/oko-ewy_karin-fossum_0f92cc.jpg"
+    ]
+  },
+  {
+    "id": "216",
+    "title": "H.M.S. ULYSSES",
+    "author": "ALISTAIR MACLEAN",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743700/book-covers/hms-ulysses_alistair-maclean_1f2983.jpg"
+    ]
+  },
+  {
+    "id": "217",
+    "title": "Krzyżacy",
+    "author": "Henryk Sienkiewicz",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743701/book-covers/krzyzacy_henryk-sienkiewicz_47738a.jpg"
+    ]
+  },
+  {
+    "id": "218",
+    "title": "KRZYŻACY",
+    "author": "Henryk Sienkiewicz",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743702/book-covers/krzyzacy_henryk-sienkiewicz_dca4eb.jpg"
+    ]
+  },
+  {
+    "id": "219",
+    "title": "Potop",
+    "author": "Henryk SIENKIEWICZ",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743703/book-covers/potop_henryk-sienkiewicz_ce6150.jpg"
+    ]
+  },
+  {
+    "id": "220",
+    "title": "Potop",
+    "author": "Henryk Sienkiewicz",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743705/book-covers/potop_henryk-sienkiewicz_a316b0.jpg"
+    ]
+  },
+  {
+    "id": "221",
+    "title": "Potop",
+    "author": "Henryk SIENKIEWICZ",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743706/book-covers/potop_henryk-sienkiewicz_fc7a9e.jpg"
+    ]
+  },
+  {
+    "id": "222",
+    "title": "Wyspa jest twoja, wodzu",
+    "author": "Ryszard Liskowacki",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743707/book-covers/wyspa-jest-twoja-wodzu_ryszard-liskowacki_ef7887.jpg"
+    ]
+  },
+  {
+    "id": "223",
+    "title": "Ogniem i mieczem",
+    "author": "Henryk Sienkiewicz",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743708/book-covers/ogniem-i-mieczem_henryk-sienkiewicz_bb5697.jpg"
+    ]
+  },
+  {
+    "id": "224",
+    "title": "Ogniem i mieczem",
+    "author": "SIENKIEWICZ",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743709/book-covers/ogniem-i-mieczem_sienkiewicz_eab939.jpg"
+    ]
+  },
+  {
+    "id": "225",
+    "title": "JAK PRAWIDŁOWO PROWADZIĆ PASIEKĘ",
+    "author": "Jerzy Marcinkowski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743711/book-covers/jak-prawidlowo-prowadzic-pasieke_jerzy-marcinkowski_611368.jpg"
+    ]
   }
 ]
