@@ -10,10 +10,10 @@ import { useLanguage } from '@/lib/LanguageContext';
 interface Book {
   id: string;
   title: string;
-  author: string;
+  author: string | null;
   price: number;
   status: string;
-  description: string;
+  description: string | null;
   imageUrls: string[];
 }
 
@@ -83,7 +83,13 @@ export default function BookDetailPage({ params }: { params: { id: string } }) {
                 {book.title}
               </h1>
               <p className="text-xl text-gray-600 dark:text-gray-400 mb-4">
-                {t('by')} {book.author}
+                {book.author ? (
+                  <>
+                    {t('by')} {book.author}
+                  </>
+                ) : (
+                  t('unknownAuthor')
+                )}
               </p>
 
               <div className="flex items-center gap-4 mb-6">
@@ -100,7 +106,7 @@ export default function BookDetailPage({ params }: { params: { id: string } }) {
                   {t('description')}
                 </h2>
                 <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                  {book.description}
+                  {book.description ?? t('noDescription')}
                 </p>
               </div>
 

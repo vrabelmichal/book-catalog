@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import Image from 'next/image';
+import { getOptimizedImageUrl } from '@/lib/imageConfig';
 
 interface ImageGalleryProps {
   images: string[];
@@ -16,7 +17,7 @@ export default function ImageGallery({ images, title }: ImageGalleryProps) {
       {/* Main Image */}
       <div className="relative aspect-[2/3] bg-gray-200 dark:bg-gray-700 rounded-lg overflow-hidden">
         <Image
-          src={images[selectedIndex]}
+          src={getOptimizedImageUrl(images[selectedIndex], 'fullSize')}
           alt={`${title} - Image ${selectedIndex + 1}`}
           fill
           sizes="(max-width: 1024px) 100vw, 50vw"
@@ -38,7 +39,7 @@ export default function ImageGallery({ images, title }: ImageGalleryProps) {
                           : 'hover:opacity-75'}`}
             >
               <Image
-                src={image}
+                src={getOptimizedImageUrl(image, 'galleryThumbnail')}
                 alt={`${title} - Thumbnail ${index + 1}`}
                 fill
                 sizes="(max-width: 1024px) 33vw, 16vw"

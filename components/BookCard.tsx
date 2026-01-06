@@ -3,14 +3,15 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { useLanguage } from '@/lib/LanguageContext';
+import { getOptimizedImageUrl } from '@/lib/imageConfig';
 
 interface Book {
   id: string;
   title: string;
-  author: string;
+  author: string | null;
   price: number;
   status: string;
-  description: string;
+  description: string | null;
   imageUrls: string[];
 }
 
@@ -46,7 +47,7 @@ export default function BookCard({ book }: BookCardProps) {
                     transition-transform duration-300 hover:shadow-xl hover:-translate-y-1">
         <div className="relative aspect-[2/3] bg-gray-200 dark:bg-gray-700">
           <Image
-            src={book.imageUrls[0]}
+            src={getOptimizedImageUrl(book.imageUrls[0], 'thumbnail')}
             alt={book.title}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, (max-width: 1280px) 33vw, 25vw"
@@ -58,7 +59,7 @@ export default function BookCard({ book }: BookCardProps) {
             {book.title}
           </h3>
           <p className="text-sm text-gray-600 dark:text-gray-400 mb-2">
-            {book.author}
+            {book.author ?? t('unknownAuthor')}
           </p>
           <div className="flex items-center justify-between">
             <span className="text-lg font-bold text-gray-900 dark:text-white">

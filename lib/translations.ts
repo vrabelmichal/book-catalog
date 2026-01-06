@@ -21,6 +21,8 @@ export const translations = {
     contactSeller: 'Contact Seller',
     bookSold: 'This book has been sold',
     bookReserved: 'This book is currently reserved',
+    unknownAuthor: 'Unknown author',
+    noDescription: 'No description available',
     
     // Language toggle
     language: 'Language',
@@ -50,6 +52,8 @@ export const translations = {
     contactSeller: 'Skontaktuj się ze sprzedawcą',
     bookSold: 'Ta książka została sprzedana',
     bookReserved: 'Ta książka jest obecnie zarezerwowana',
+    unknownAuthor: 'Autor nieznany',
+    noDescription: 'Brak opisu',
     
     // Language toggle
     language: 'Język',
