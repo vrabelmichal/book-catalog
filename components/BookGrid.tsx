@@ -37,7 +37,19 @@ export default function BookGrid() {
         const matchesStatus = status === 'all' || book.status === status;
         return matchesSearch && matchesStatus;
       })
-      .sort((a, b) => b.score - a.score || a.book.title.localeCompare(b.book.title))
+      .sort((a, b) => {
+        // If no search query, sort by author name (with null authors last)
+        if (search.trim() === '') {
+          const authorA = a.book.author ?? '';
+          const authorB = b.book.author ?? '';
+          if (!authorA && !authorB) return a.book.title.localeCompare(b.book.title);
+          if (!authorA) return 1;
+          if (!authorB) return -1;
+          return authorA.localeCompare(authorB) || a.book.title.localeCompare(b.book.title);
+        }
+        // Otherwise, sort by search score
+        return b.score - a.score || a.book.title.localeCompare(b.book.title);
+      })
       .map(({ book }) => book);
 
     setFilteredBooks(filtered);

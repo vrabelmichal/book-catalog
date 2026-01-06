@@ -1,9 +1,40 @@
+// Polish character mapping for comprehensive diacritic handling
+const polishCharMap: { [key: string]: string } = {
+  // Lowercase Polish characters
+  ą: 'a',
+  ć: 'c',
+  ę: 'e',
+  ł: 'l',
+  ń: 'n',
+  ó: 'o',
+  ś: 's',
+  ź: 'z',
+  ż: 'z',
+  // Uppercase Polish characters
+  Ą: 'a',
+  Ć: 'c',
+  Ę: 'e',
+  Ł: 'l',
+  Ń: 'n',
+  Ó: 'o',
+  Ś: 's',
+  Ź: 'z',
+  Ż: 'z',
+};
+
 export function normalizeForSearch(text: string): string {
   if (!text) return '';
-  return text
+  
+  // First pass: Replace Polish special characters
+  let normalized = text.split('').map(char => polishCharMap[char] || char).join('');
+  
+  // Second pass: NFD normalization for remaining diacritics (French, Spanish, etc.)
+  normalized = normalized
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '')
     .toLowerCase();
+  
+  return normalized;
 }
 
 export function scoreMatch(haystack: string, needle: string): number {

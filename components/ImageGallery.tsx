@@ -23,6 +23,7 @@ export default function ImageGallery({ images, title }: ImageGalleryProps) {
           sizes="(max-width: 1024px) 100vw, 50vw"
           className="object-cover"
           priority={selectedIndex === 0}
+          loading={selectedIndex === 0 ? 'eager' : 'lazy'}
         />
       </div>
 
@@ -44,6 +45,7 @@ export default function ImageGallery({ images, title }: ImageGalleryProps) {
                 fill
                 sizes="(max-width: 1024px) 33vw, 16vw"
                 className="object-cover"
+                loading="lazy"
               />
             </button>
           ))}
