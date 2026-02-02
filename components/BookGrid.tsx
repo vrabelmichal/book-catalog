@@ -1,11 +1,14 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+
 import { useSearchParams } from 'next/navigation';
 import BookCard from './BookCard';
 import books from '@/data/books_data.json';
 import { useLanguage } from '@/lib/LanguageContext';
 import { combinedScore } from '@/lib/search';
+
+// Use a fixed-locale collator so server and client sorting stay identical.
+const enCollator = new Intl.Collator('en', { sensitivity: 'base' });
 
 interface Book {
   id: string;
@@ -20,14 +23,12 @@ interface Book {
 export default function BookGrid() {
   const searchParams = useSearchParams();
   const { t } = useLanguage();
-  const [filteredBooks, setFilteredBooks] = useState<Book[]>(books);
-
-  useEffect(() => {
+  const filteredBooks = (() => {
     const search = searchParams.get('search') || '';
     const status = searchParams.get('status') || 'all';
 
     // Filter by search (accent-insensitive) and status, then rank by score
-    const filtered = books
+    return books
       .map((book: Book) => {
         const score = combinedScore([book.title, book.author ?? ''], search);
         return { book, score };
@@ -42,18 +43,16 @@ export default function BookGrid() {
         if (search.trim() === '') {
           const authorA = a.book.author ?? '';
           const authorB = b.book.author ?? '';
-          if (!authorA && !authorB) return a.book.title.localeCompare(b.book.title);
+          if (!authorA && !authorB) return enCollator.compare(a.book.title, b.book.title);
           if (!authorA) return 1;
           if (!authorB) return -1;
-          return authorA.localeCompare(authorB) || a.book.title.localeCompare(b.book.title);
+          return enCollator.compare(authorA, authorB) || enCollator.compare(a.book.title, b.book.title);
         }
         // Otherwise, sort by search score
-        return b.score - a.score || a.book.title.localeCompare(b.book.title);
+        return b.score - a.score || enCollator.compare(a.book.title, b.book.title);
       })
       .map(({ book }) => book);
-
-    setFilteredBooks(filtered);
-  }, [searchParams]);
+  })();
 
   if (filteredBooks.length === 0) {
     return (

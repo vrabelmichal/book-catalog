@@ -1,7 +1,7 @@
 'use client';
 
 import { FormEvent, useMemo, useState } from 'react';
-import { notFound } from 'next/navigation';
+import { notFound, useParams } from 'next/navigation';
 import Link from 'next/link';
 import ImageGallery from '@/components/ImageGallery';
 import LanguageToggle from '@/components/LanguageToggle';
@@ -31,9 +31,11 @@ const generateCaptcha = () => ({
   b: Math.floor(Math.random() * 9) + 1,
 });
 
-export default function BookDetailPage({ params }: { params: { id: string } }) {
+export default function BookDetailPage() {
+  const params = useParams<{ id: string }>();
   const { t } = useLanguage();
-  const book = books.find((b: Book) => b.id === params.id);
+  const bookId = params?.id;
+  const book = books.find((b: Book) => b.id === bookId);
 
   if (!book) {
     notFound();
