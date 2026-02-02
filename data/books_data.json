@@ -323,7 +323,7 @@
     "title": "Pan Tadeusz",
     "author": "Adam Mickiewicz",
     "price": 0,
-    "status": "available",
+    "status": "reserved",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767715739/book-covers/pan-tadeusz_adam-mickiewicz_c8a34e.jpg"
@@ -598,7 +598,7 @@
     "title": "Wiersze",
     "author": "Adam Mickiewicz",
     "price": 0,
-    "status": "available",
+    "status": "reserved",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716514/book-covers/wiersze_adam-mickiewicz_d5d850.jpg"
@@ -609,7 +609,7 @@
     "title": "Powiesci poetyckie, Ksigi narodu polskiego i pielgrzymstwa polskiego",
     "author": "Adam Mickiewicz",
     "price": 0,
-    "status": "available",
+    "status": "reserved",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716515/book-covers/powiesci-poetyckie-ksigi-narodu-polskiego-i-pielgr_adam-mickiewicz_216dc1.jpg"
@@ -620,7 +620,7 @@
     "title": "Utwory\ndramatyczne",
     "author": "Adam Mickiewicz",
     "price": 0,
-    "status": "available",
+    "status": "reserved",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716516/book-covers/utwory-dramatyczne_adam-mickiewicz_9ee081.jpg"
