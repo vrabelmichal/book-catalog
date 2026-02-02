@@ -675,7 +675,7 @@
     "title": "WYPRAWA CZAROWNIC",
     "author": "TERRY PRATCHETT",
     "price": 0,
-    "status": "available",
+    "status": "reserved",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716524/book-covers/wyprawa-czarownic_terry-pratchett_acabd0.jpg"
@@ -954,17 +954,6 @@
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716556/book-covers/rozaniec-z-ojcem-swietym_jan-pawel-ii_e808e1.jpg"
-    ]
-  },
-  {
-    "id": "88",
-    "title": "Pruǿótó̀n",
-    "author": "Bolesóáón",
-    "price": 0,
-    "status": "available",
-    "description": null,
-    "imageUrls": [
-      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716557/book-covers/pru%C3%B8oton_bolesoaon_bea477.jpg"
     ]
   },
   {
@@ -2472,6 +2461,512 @@
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743711/book-covers/jak-prawidlowo-prowadzic-pasieke_jerzy-marcinkowski_611368.jpg"
+    ]
+  },
+  {
+    "id": "226",
+    "title": "Kodeks drogowy z komentarzem",
+    "author": "null",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036836/book-covers/kodeks-drogowy-z-komentarzem_null_f332f1.jpg"
+    ]
+  },
+  {
+    "id": "227",
+    "title": "PRUS PHARAON",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036838/book-covers/prus-pharaon_unknown-author_65ec1f.jpg"
+    ]
+  },
+  {
+    "id": "228",
+    "title": "Kirsty Fabryka oficerów",
+    "author": "Hans Hellmut Kirst",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036839/book-covers/kirsty-fabryka-oficerow_hans-hellmut-kirst_297fc1.jpg"
+    ]
+  },
+  {
+    "id": "229",
+    "title": "Chłopi",
+    "author": "Władysław St. Reymont",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036841/book-covers/chlopi_wladyslaw-st-reymont_6e5ec8.jpg"
+    ]
+  },
+  {
+    "id": "230",
+    "title": "HISTORIA LOTNICTWA OD PIERWSZYCH DWUPłATOWCOW PO PODBÓJ KOSMOSU",
+    "author": "DAVID SIMONS THOMAS WITHINGTON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036843/book-covers/historia-lotnictwa-od-pierwszych-dwuplatowcow-po-p_david-simons-thomas-withington_26e006.jpg"
+    ]
+  },
+  {
+    "id": "231",
+    "title": "KOŚCIÓŁ ŚW. ANNY W KRAKOWIE",
+    "author": "JERZY GOMOLISZEWSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036845/book-covers/kosciol-sw-anny-w-krakowie_jerzy-gomoliszewski_10d92b.jpg"
+    ]
+  },
+  {
+    "id": "232",
+    "title": "Przewodnik po Polsce 3.",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036847/book-covers/przewodnik-po-polsce-3_unknown-author_351b99.jpg"
+    ]
+  },
+  {
+    "id": "233",
+    "title": "ILUSTROWANA KRONIKA POLAKOW",
+    "author": "Mateusz Siuchniński Szymon Kobylinski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036850/book-covers/ilustrowana-kronika-polakow_mateusz-siuchninski-szymon-kob_a99413.jpg"
+    ]
+  },
+  {
+    "id": "234",
+    "title": "SWOBODNA",
+    "author": "S.C. Stephens",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036851/book-covers/swobodna_sc-stephens_b315c2.jpg"
+    ]
+  },
+  {
+    "id": "235",
+    "title": "Historia starożytnych Greków tom III",
+    "author": "Benedetto Bravo Ewa Wipszycka",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036853/book-covers/historia-starozytnych-grekow-tom-iii_benedetto-bravo-ewa-wipszycka_e1fddc.jpg"
+    ]
+  },
+  {
+    "id": "236",
+    "title": "ALEJA CHANEL N°5",
+    "author": "Daniela Farnese",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036855/book-covers/aleja-chanel-n5_daniela-farnese_649413.jpg"
+    ]
+  },
+  {
+    "id": "237",
+    "title": "GAJO S",
+    "author": "ELŻBIETA BANIEWICZ",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036857/book-covers/gajo-s_elzbieta-baniewicz_d7d83c.jpg"
+    ]
+  },
+  {
+    "id": "238",
+    "title": "W OGRODZIE KRÓLOWEJ",
+    "author": "Horst Beseler",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036860/book-covers/w-ogrodzie-krolowej_horst-beseler_58f656.jpg"
+    ]
+  },
+  {
+    "id": "239",
+    "title": "Konopielka",
+    "author": "Krzysztof Malchrzak",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036862/book-covers/konopielka_krzysztof-malchrzak_f19e58.jpg"
+    ]
+  },
+  {
+    "id": "240",
+    "title": "Pozdrowienia z epoki kamiennej",
+    "author": "ERICH VON DÄNIKEN",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036864/book-covers/pozdrowienia-z-epoki-kamiennej_erich-von-d%C3%A4niken_89c0e2.jpg"
+    ]
+  },
+  {
+    "id": "241",
+    "title": "rybactwo stavowwe",
+    "author": "Romain Prawochenski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036867/book-covers/rybactwo-stavowwe_romain-prawochenski_540538.jpg"
+    ]
+  },
+  {
+    "id": "242",
+    "title": "OCEAN'S ELEVEN",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036869/book-covers/oceans-eleven_unknown-author_b7d49e.jpg"
+    ]
+  },
+  {
+    "id": "243",
+    "title": "Seksmisja",
+    "author": "Juliusz Machulski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036871/book-covers/seksmisja_juliusz-machulski_9aa5ea.jpg"
+    ]
+  },
+  {
+    "id": "244",
+    "title": "GODZILLA",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036872/book-covers/godzilla_unknown-author_e3e4fc.jpg"
+    ]
+  },
+  {
+    "id": "245",
+    "title": "The Matrix",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036874/book-covers/the-matrix_unknown-author_03eedc.jpg"
+    ]
+  },
+  {
+    "id": "246",
+    "title": "Opowiadania",
+    "author": "Marek Hłasko",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036875/book-covers/opowiadania_marek-hlasko_da781d.jpg"
+    ]
+  },
+  {
+    "id": "247",
+    "title": "WIELKA BRYTANIA INFORMACJA TURISTYCZNA ROZMOWKI POLSKO-ANGIELSKIE MINI-SLOWNIK",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036878/book-covers/wielka-brytania-informacja-turistyczna-rozmowki-po_unknown-author_f56882.jpg"
+    ]
+  },
+  {
+    "id": "248",
+    "title": "Przewodnik po POLSCE 1.",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036881/book-covers/przewodnik-po-polsce-1_unknown-author_4679c5.jpg"
+    ]
+  },
+  {
+    "id": "249",
+    "title": "Przewodnik po Polsce 2.",
+    "author": "Pojeziere Pomorskie, Kotlina Gorzowska, okolice Szczecina",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036883/book-covers/przewodnik-po-polsce-2_pojeziere-pomorskie-kotlina-go_1c7cd0.jpg"
+    ]
+  },
+  {
+    "id": "250",
+    "title": "Step up! PS1146",
+    "author": "JESSICA, JOSIOS",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036884/book-covers/step-up-ps1146_jessica-josios_e279c7.jpg"
+    ]
+  },
+  {
+    "id": "252",
+    "title": "PULP FICTION",
+    "author": "Quentin Tarantino",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036890/book-covers/pulp-fiction_quentin-tarantino_748106.jpg"
+    ]
+  },
+  {
+    "id": "253",
+    "title": "WIERNA RZEKA",
+    "author": "Stefan Żeromski",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036892/book-covers/wierna-rzeka_stefan-zeromski_bc58b3.jpg"
+    ]
+  },
+  {
+    "id": "254",
+    "title": "AUTOPSJA",
+    "author": "TESS GERRITSEN",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036894/book-covers/autopsja_tess-gerritsen_0e9b5e.jpg"
+    ]
+  },
+  {
+    "id": "255",
+    "title": "POWIEDZCIE SWOIM",
+    "author": "Wojciech Pustka",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036896/book-covers/powiedzcie-swoim_wojciech-pustka_34704b.jpg"
+    ]
+  },
+  {
+    "id": "256",
+    "title": "PLAN IDEALNY",
+    "author": "Michael CRICHTON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036899/book-covers/plan-idealny_michael-crichton_dd0ccf.jpg"
+    ]
+  },
+  {
+    "id": "257",
+    "title": "Ogien i mieczem",
+    "author": "Henryk SIENKIEWICZ",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036903/book-covers/ogien-i-mieczem_henryk-sienkiewicz_7f7ad0.jpg"
+    ]
+  },
+  {
+    "id": "258",
+    "title": "Tańczący z lwami",
+    "author": "Tony Fitzjohn",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036905/book-covers/tanczacy-z-lwami_tony-fitzjohn_de2b9a.jpg"
+    ]
+  },
+  {
+    "id": "259",
+    "title": "POLOWANIE",
+    "author": "Amy Meredith",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036907/book-covers/polowanie_amy-meredith_d3faec.jpg"
+    ]
+  },
+  {
+    "id": "260",
+    "title": "Dziewczyna z pociągu",
+    "author": "Paula Hawkins",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036909/book-covers/dziewczyna-z-pociagu_paula-hawkins_9ebc63.jpg"
+    ]
+  },
+  {
+    "id": "261",
+    "title": "Dom z moich marzeń",
+    "author": "Laura Dave",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036911/book-covers/dom-z-moich-marzen_laura-dave_288edd.jpg"
+    ]
+  },
+  {
+    "id": "262",
+    "title": "Najpiękniejsze trasy kajakowe w Polsce",
+    "author": "Pascal",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036913/book-covers/najpiekniejsze-trasy-kajakowe-w-polsce_pascal_8315c0.jpg"
+    ]
+  },
+  {
+    "id": "263",
+    "title": "Najpiękniejsze trasy kajakowe w Polsce",
+    "author": "Pascal",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036915/book-covers/najpiekniejsze-trasy-kajakowe-w-polsce_pascal_0bb25c.jpg"
+    ]
+  },
+  {
+    "id": "264",
+    "title": "ZASŁONA KŁAMSTW",
+    "author": "JERI WESTERSON",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036917/book-covers/zaslona-klamstw_jeri-westerson_7aac63.jpg"
+    ]
+  },
+  {
+    "id": "265",
+    "title": "TAKA ZABAWNA HISTORIA",
+    "author": "KRZYSZTOF KOWALEWSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036918/book-covers/taka-zabawna-historia_krzysztof-kowalewski_fcec51.jpg"
+    ]
+  },
+  {
+    "id": "266",
+    "title": "PRZEPOWIEDNIA",
+    "author": "P.C. CAST",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036919/book-covers/przepowiednia_pc-cast_7fb555.jpg"
+    ]
+  },
+  {
+    "id": "267",
+    "title": "KSIĄŻĘ",
+    "author": "FILIP SYCZYŃSKI",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036921/book-covers/ksiaze_filip-syczynski_7f4ba4.jpg"
+    ]
+  },
+  {
+    "id": "268",
+    "title": "Misja",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036922/book-covers/misja_unknown-author_f63428.jpg"
+    ]
+  },
+  {
+    "id": "269",
+    "title": "KARP pozytywnie wpływa NA STAWY",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036925/book-covers/karp-pozytywnie-wplywa-na-stawy_unknown-author_52f050.jpg"
+    ]
+  },
+  {
+    "id": "270",
+    "title": "Epoka lodowcowa",
+    "author": null,
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036926/book-covers/epoka-lodowcowa_unknown-author_ec4f45.jpg"
+    ]
+  },
+  {
+    "id": "271",
+    "title": "CHLOPI",
+    "author": "Jan Panak",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036928/book-covers/chlopi_jan-panak_a8b524.jpg"
+    ]
+  },
+  {
+    "id": "272",
+    "title": "Kwiat sliwy, mroczny cien",
+    "author": "Lian HEARN",
+    "price": 0,
+    "status": "available",
+    "description": null,
+    "imageUrls": [
+      "https://res.cloudinary.com/dgpofwy1l/image/upload/v1770036929/book-covers/kwiat-sliwy-mroczny-cien_lian-hearn_0973dc.jpg"
     ]
   }
 ]
