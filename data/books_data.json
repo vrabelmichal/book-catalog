@@ -1258,7 +1258,7 @@
     "title": "ZBROJNI",
     "author": "TERRY PRATCHETT",
     "price": 0,
-    "status": "reserved",
+    "status": "sold",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716597/book-covers/zbrojni_terry-pratchett_d43ac6.jpg"
@@ -1478,7 +1478,7 @@
     "title": "DYWAN",
     "author": "TERRY PRATCHETT",
     "price": 0,
-    "status": "reserved",
+    "status": "sold",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716626/book-covers/dywan_terry-pratchett_8fa87b.jpg"
@@ -1797,7 +1797,7 @@
     "title": "PANOWIE I DAMY",
     "author": "TERRY PRATCHETT",
     "price": 0,
-    "status": "reserved",
+    "status": "sold",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716662/book-covers/panowie-i-damy_terry-pratchett_f66613.jpg"
@@ -1808,7 +1808,7 @@
     "title": "RUCHOME OBRAZKI",
     "author": "TERRY PRATCHETT",
     "price": 0,
-    "status": "reserved",
+    "status": "sold",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716664/book-covers/ruchome-obrazki_terry-pratchett_a9a51b.jpg"
@@ -1918,7 +1918,7 @@
     "title": "MEN AT ARMS",
     "author": "TERRY PRATCHETT",
     "price": 0,
-    "status": "reserved",
+    "status": "sold",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716676/book-covers/men-at-arms_terry-pratchett_767279.jpg"
@@ -1929,7 +1929,7 @@
     "title": "Small Gods",
     "author": "Terry Pratchett",
     "price": 0,
-    "status": "reserved",
+    "status": "sold",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716678/book-covers/small-gods_terry-pratchett_9b1373.jpg"
@@ -1940,7 +1940,7 @@
     "title": "FEET OF CLAY",
     "author": "TERRY PRATCHETT",
     "price": 0,
-    "status": "reserved",
+    "status": "sold",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716680/book-covers/feet-of-clay_terry-pratchett_48499b.jpg"
@@ -2160,7 +2160,7 @@
     "title": "MUZYKA DUSZY",
     "author": "TERRY PRATCHETT",
     "price": 0,
-    "status": "reserved",
+    "status": "sold",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767716726/book-covers/muzyka-duszy_terry-pratchett_69cf45.jpg"
@@ -2300,10 +2300,10 @@
   },
   {
     "id": "211",
-    "title": "Ziemia i meteory",
+    "title": "Łowcy meteorów",
     "author": "Juliusz Verne",
     "price": 0,
-    "status": "available",
+    "status": "sold",
     "description": null,
     "imageUrls": [
       "https://res.cloudinary.com/dgpofwy1l/image/upload/v1767743695/book-covers/ziemia-i-meteory_juliusz-verne_fd9285.jpg"
